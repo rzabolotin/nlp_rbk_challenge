@@ -31,4 +31,4 @@
 - В качестве предсказания - усреднил ответы всех моделей
 - Не использовал внешние данные
 
-![Диплом участника](docs/Диплом участника.png)
+![Диплом участника](https://raw.githubusercontent.com/rzabolotin/nlp_rbk_challenge/main/docs/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.png)
